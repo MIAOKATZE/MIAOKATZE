@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="76" viewBox="0 0 960 76" role="img" aria-labelledby="title">
+  <title id="title">MIAOKATZE · Made with curiosity, steam and a little cat energy.</title>
+  <defs><linearGradient id="line"><stop stop-color="#ce8aec"/><stop offset=".5" stop-color="#62d7f2"/><stop offset="1" stop-color="#efbf78"/></linearGradient></defs>
+  <rect x="1" y="1" width="958" height="74" rx="12" fill="#101927" stroke="#293d53"/>
+  <path d="M28 37H114L130 21H191M769 21H830L846 37H932" fill="none" stroke="url(#line)" stroke-width="2"/>
+  <text x="480" y="32" text-anchor="middle" font-family="Consolas,monospace" font-size="13" font-weight="700" letter-spacing="4" fill="#dce8f9">MIAOKATZE / NEKO LAB</text>
+  <text x="480" y="54" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#9eb3cb">Made with curiosity, steam and a little cat energy.</text>
+</svg>

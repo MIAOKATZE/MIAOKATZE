@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="330" viewBox="0 0 960 330" role="img" aria-labelledby="title desc">
+  <title id="title">MIAOKATZE · NEKO LAB</title>
+  <desc id="desc">深色工业控制台、霓虹线路与猫猫徽标。把奇思妙想，接入格雷世界。</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101927"/><stop offset=".6" stop-color="#0a101c"/><stop offset="1" stop-color="#162336"/></linearGradient>
+    <linearGradient id="neon"><stop stop-color="#57e2ff"/><stop offset=".52" stop-color="#bc98ff"/><stop offset="1" stop-color="#ffbd5a"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#3cc8ee" stop-opacity=".15"/><stop offset="1" stop-color="#3cc8ee" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#55718d" stroke-opacity=".12"/></pattern>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3"/></filter>
+    <style>
+      text { font-family: 'Segoe UI', 'Microsoft YaHei', Arial, sans-serif; }
+      .mono { font-family: Consolas, 'Courier New', monospace; }
+      .signal { stroke-dasharray: 9 155; animation: flow 9s linear infinite; }
+      @keyframes flow { to { stroke-dashoffset: -328; } }
+      @media (prefers-reduced-motion: reduce) { .signal { animation: none; } }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="958" height="328" rx="18" fill="url(#bg)" stroke="#31465e"/>
+  <rect x="2" y="2" width="956" height="326" rx="17" fill="url(#grid)"/>
+  <path d="M22 1H938" stroke="url(#neon)" stroke-width="3"/>
+  <circle cx="755" cy="170" r="180" fill="url(#halo)"/>
+  <g fill="none" stroke="#39536d" stroke-width="1">
+    <path d="M630 80H650L672 58H857L888 89V230L854 264H694L670 240H621"/>
+    <path d="M624 103H659L683 79H842L866 103V216L840 242H707L683 218H624"/>
+    <path d="M2 273H74L94 293H484L511 266H602"/>
+    <path d="M841 2V35L913 107H958M889 329V282L918 253H958"/>
+  </g>
+  <g fill="none" stroke="#58ddff" stroke-width="2" class="signal">
+    <path d="M624 103H659L683 79H842L866 103V216L840 242H707L683 218H624"/>
+    <path d="M2 273H74L94 293H484L511 266H602"/>
+  </g>
+  <g fill="#48617a"><circle cx="630" cy="80" r="3"/><circle cx="621" cy="240" r="3"/><circle cx="624" cy="103" r="3"/><circle cx="624" cy="218" r="3"/></g>
+  <g fill="#b5c5d7" class="mono" font-size="11" letter-spacing="2">
+    <text x="42" y="35">MIAOKATZE / PERSONAL WORKSHOP</text>
+    <text x="790" y="35">EST. IN GTNH</text>
+  </g>
+  <path d="M42 50H918" stroke="#2c3f54"/>
+  <rect x="42" y="77" width="110" height="24" rx="5" fill="#15303b" stroke="#2e626f"/>
+  <circle cx="55" cy="89" r="3" fill="#5bdfd2"/>
+  <text x="65" y="93" class="mono" font-size="11" fill="#8ceee4" letter-spacing="1.8">NEKO LAB</text>
+  <text x="40" y="160" font-size="57" font-weight="800" letter-spacing="2" fill="#f0f5ff">MIAOKATZE</text>
+  <text x="43" y="201" font-size="23" font-weight="600" fill="#cbd8eb">把奇思妙想，接入格雷世界。</text>
+  <text x="43" y="232" class="mono" font-size="12" letter-spacing="1.3" fill="#829db9">CURIOSITY → CODE → YOUR NEXT ADVENTURE</text>
+  <g font-size="11" class="mono" letter-spacing="1">
+    <rect x="43" y="255" width="147" height="28" rx="6" fill="#292039" stroke="#584168"/>
+    <text x="58" y="273" fill="#e4aaff">01 / PLAYFUL</text>
+    <rect x="201" y="255" width="151" height="28" rx="6" fill="#122c3b" stroke="#27566b"/>
+    <text x="215" y="273" fill="#78e0fa">02 / WIRELESS</text>
+    <rect x="363" y="255" width="136" height="28" rx="6" fill="#30281f" stroke="#665139"/>
+    <text x="378" y="273" fill="#ffc77b">03 / STEAM</text>
+  </g>
+  <g transform="translate(755 157)">
+    <circle r="88" fill="#0b1623" fill-opacity=".7" stroke="#33546e"/>
+    <circle r="79" fill="none" stroke="#55d6fa" stroke-opacity=".5" stroke-dasharray="3 10"/>
+    <path d="M-49 24V-44L-23 -22Q0 -32 23 -22L49 -44V24Q45 57 0 58Q-45 57 -49 24Z" fill="none" stroke="#57e2ff" stroke-width="5" filter="url(#glow)" opacity=".6"/>
+    <path d="M-49 24V-44L-23 -22Q0 -32 23 -22L49 -44V24Q45 57 0 58Q-45 57 -49 24Z" fill="#122b3c" stroke="#8ce7ff" stroke-width="2.5" stroke-linejoin="round"/>
+    <path d="M-40 -28L-29 -20M40 -28L29 -20" stroke="#cbabff" stroke-width="3" stroke-linecap="round"/>
+    <path d="M-27 8H-14M14 8H27" stroke="#ffe091" stroke-width="5" stroke-linecap="round"/>
+    <path d="M-4 22H4L0 27Z" fill="#d6adff"/>
+    <path d="M0 27V33L-8 37M0 33L8 37M-35 25L-57 20M-35 33H-59M35 25L57 20M35 33H59" fill="none" stroke="#86c6de" stroke-width="2" stroke-linecap="round"/>
+    <path d="M-66 -61H-52M-59 -68V-54M53 50H65M59 44V56" stroke="#f6c575" stroke-width="2"/>
+  </g>
+  <text x="755" y="269" text-anchor="middle" class="mono" font-size="10" letter-spacing="3" fill="#8db3ce">CRAFTED WITH CAT ENERGY</text>
+  <path d="M42 302H918" stroke="#2c3f54"/>
+  <text x="43" y="318" class="mono" font-size="9" letter-spacing="1.4" fill="#7f98b2">JAVA / MINECRAFT / GREGTECH NEW HORIZONS</text>
+  <text x="918" y="318" text-anchor="end" class="mono" font-size="9" letter-spacing="1.4" fill="#c6ad80">KEEP BUILDING. KEEP EXPLORING.</text>
+</svg>

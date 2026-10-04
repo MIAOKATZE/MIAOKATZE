@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="50" viewBox="0 0 230 50" role="img" aria-labelledby="title">
+  <title id="title">点亮 Star，支持这个项目 · 打开项目仓库</title>
+  <defs><linearGradient id="gold" x2="1" y2="1"><stop stop-color="#ffe5a0"/><stop offset="1" stop-color="#f4b94f"/></linearGradient></defs>
+  <rect x="1" y="1" width="228" height="48" rx="10" fill="url(#gold)" stroke="#c98b31"/>
+  <path d="M25 13L29 21L38 22L31 28L33 37L25 32L17 37L19 28L12 22L21 21Z" fill="#513816"/>
+  <text x="47" y="31" font-family="'Segoe UI','Microsoft YaHei',Arial,sans-serif" font-size="14" font-weight="700" fill="#382611">点亮 Star · 支持这个项目</text>
+</svg>

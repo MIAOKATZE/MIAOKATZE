@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="122" viewBox="0 0 960 122" role="img" aria-labelledby="title">
+  <title id="title">喜欢我的项目？请给它们点一颗 Star！你的支持，是下一次更新的动力。</title>
+  <defs><linearGradient id="bg"><stop stop-color="#292217"/><stop offset=".65" stop-color="#151923"/><stop offset="1" stop-color="#1b2030"/></linearGradient></defs>
+  <rect x="1" y="1" width="958" height="120" rx="14" fill="url(#bg)" stroke="#695336"/>
+  <g transform="translate(65 59)"><circle r="33" fill="#382c19" stroke="#957036"/><path d="M0 -22L6 -7L23 -6L10 5L14 22L0 13L-14 22L-10 5L-23 -6L-6 -7Z" fill="#ffd478"/></g>
+  <text x="122" y="39" font-family="Consolas,monospace" font-size="10" letter-spacing="3" fill="#d4b777">SUPPORT THE NEXT IDEA</text>
+  <text x="121" y="70" font-family="'Segoe UI','Microsoft YaHei',Arial,sans-serif" font-size="25" font-weight="700" fill="#ffdda0">喜欢我的项目？请给它们点一颗 Star！</text>
+  <text x="122" y="96" font-family="'Segoe UI','Microsoft YaHei',Arial,sans-serif" font-size="14" fill="#b7bac7">你的支持，是下一次更新的动力。 / A little star goes a long way.</text>
+  <path d="M846 34L860 48L846 62M878 34L892 48L878 62" fill="none" stroke="#b48a4d" stroke-width="2"/>
+</svg>
