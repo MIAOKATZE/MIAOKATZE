@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="38" viewBox="0 0 104 38" role="img" aria-labelledby="title">
+  <title id="title">趣味道具 · GTIT</title>
+  <rect x="1" y="1" width="102" height="36" rx="8" fill="#261c32" stroke="#9964b8"/>
+  <rect x="12" y="17" width="15" height="11" rx="1" fill="none" stroke="#e4a8ff" stroke-width="1.5"/>
+  <path d="M11 13H28V18H11ZM19.5 13V28M19.5 13C9 13 13 5 19.5 13C26 5 30 13 19.5 13" fill="none" stroke="#e4a8ff" stroke-width="1.5" stroke-linejoin="round"/>
+  <text x="36" y="24" font-family="'Segoe UI','Microsoft YaHei',Arial,sans-serif" font-size="12" font-weight="600" fill="#edc6ff">趣味道具</text>
+</svg>

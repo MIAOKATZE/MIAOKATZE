@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="38" viewBox="0 0 104 38" role="img" aria-labelledby="title">
+  <title id="title">下载模组 · Releases</title>
+  <defs><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#213245"/><stop offset="1" stop-color="#132232"/></linearGradient></defs>
+  <rect x="1" y="1" width="102" height="36" rx="8" fill="url(#bg)" stroke="#49657e"/>
+  <path d="M20 10V22M15 17L20 22L25 17M12 23V28H28V23" fill="none" stroke="#93d8f5" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="36" y="24" font-family="'Segoe UI','Microsoft YaHei',Arial,sans-serif" font-size="12" font-weight="600" fill="#d3e5f7">下载模组</text>
+</svg>

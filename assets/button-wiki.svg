@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="38" viewBox="0 0 104 38" role="img" aria-labelledby="title">
+  <title id="title">项目 Wiki · 使用文档</title>
+  <defs><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#292c43"/><stop offset="1" stop-color="#191e31"/></linearGradient></defs>
+  <rect x="1" y="1" width="102" height="36" rx="8" fill="url(#bg)" stroke="#64658b"/>
+  <path d="M20 12Q15 9 11 11V26Q15 24 20 27Q25 24 29 26V11Q25 9 20 12ZM20 12V27" fill="none" stroke="#c5b7f5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="35" y="24" font-family="'Segoe UI','Microsoft YaHei',Arial,sans-serif" font-size="12" font-weight="600" fill="#e0dbfb">项目 Wiki</text>
+</svg>

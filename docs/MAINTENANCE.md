@@ -4,6 +4,8 @@
 
 - `assets/neko-lab.svg`：工业控制台风格头图，含轻量线路动画与减少动态效果支持。
 - `assets/star-*.svg`：本地 Star 引导图片。点击后进入项目仓库，访客仍需点击 GitHub 原生 Star。
+- `assets/nav-*.svg`：三个项目的页内导航按钮。
+- `assets/button-*.svg`：各项目共用的下载、Wiki 和反馈按钮，链接由 README 配置。
 - `assets/gt-*.png`：从三个项目 README 原样复制的标题图，保留透明背景。
 - `assets/footer.svg`：页尾装饰。
 
