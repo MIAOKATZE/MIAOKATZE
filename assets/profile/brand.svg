@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="108" viewBox="0 0 600 108" role="img" aria-labelledby="title desc">
+  <title id="title">MIAOKATZE · 猫猫的 GTNH 模组工坊</title>
+  <desc id="desc">矮横幅、猫猫徽记，以及代表无线、趣味与蒸汽的青、紫、铜金三色轨道。</desc>
+  <defs>
+    <linearGradient id="surface" x2="1" y2="1"><stop stop-color="#172034"/><stop offset="1" stop-color="#101623"/></linearGradient>
+    <linearGradient id="rail"><stop stop-color="#76d9ec"/><stop offset=".5" stop-color="#bd9cf0"/><stop offset="1" stop-color="#e8bc79"/></linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="599" height="107" rx="16" fill="url(#surface)" stroke="#34405a"/>
+  <path d="M22 107H578" stroke="url(#rail)" stroke-width="2"/>
+  <g fill="none" stroke="#35435b" stroke-width="1">
+    <path d="M440 22H468L480 34H575M464 48H515L528 61H575M486 84H552L565 71H599"/>
+  </g>
+  <g transform="translate(56 54)">
+    <circle r="32" fill="#212c42" stroke="#53617e"/>
+    <path d="M-20 11V-19L-9 -11Q0 -15 9 -11L20 -19V11Q17 25 0 25Q-17 25 -20 11Z" fill="#19243a" stroke="#c8b7ee" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M-11 2L-7 4L-11 6M11 2L7 4L11 6" fill="none" stroke="#8cdeec" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M-3 10H3L0 13Z" fill="#e8bc79"/>
+    <path d="M0 13V16M-5 17Q0 21 5 17" fill="none" stroke="#e8bc79" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M-17 11L-25 9M-17 16H-26M17 11L25 9M17 16H26" stroke="#8b9cb8" stroke-width="1.3" stroke-linecap="round"/>
+  </g>
+  <g font-family="'Segoe UI',Arial,sans-serif">
+    <text x="108" y="31" font-size="10" font-weight="600" letter-spacing="2.8" fill="#a2b2cc">A LITTLE CAT WORKSHOP</text>
+    <text x="106" y="65" font-size="32" font-weight="750" letter-spacing="1" fill="#edf1fa">MIAOKATZE</text>
+    <text x="108" y="86" font-size="11" letter-spacing="1.2" fill="#a5b5cd">GTNH MODS / CURIOSITY INTO CODE</text>
+  </g>
+  <g font-family="Consolas,'Courier New',monospace" font-size="9" text-anchor="middle">
+    <circle cx="464" cy="37" r="3" fill="#76d9ec"/><text x="464" y="58" fill="#a4cbd8">EU</text>
+    <circle cx="510" cy="37" r="3" fill="#bd9cf0"/><text x="510" y="58" fill="#c8b8e6">FUN</text>
+    <circle cx="556" cy="37" r="3" fill="#e8bc79"/><text x="556" y="58" fill="#d5bf9e">STEAM</text>
+  </g>
+</svg>

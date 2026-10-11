@@ -2,14 +2,24 @@
 
 这是 `MIAOKATZE/MIAOKATZE` 的公开 GitHub Profile README。根目录的 `README.md` 显示在个人主页。
 
-主页保持紧凑：小幅装饰头图、个人主页入口、三行项目快捷入口及简短的 Star 引导。模组的详细介绍与特色展示由 https://miaokatze.com/ 承载，GitHub 主页提供简洁的访问指引。
+布局为矮横幅、个人主页入口、三列模组展示及一段 Star 邀请。详细模组宣传由 https://miaokatze.com/ 承载。
 
-- 个人主页入口使用完整 HTTPS 地址，并保持在项目列表之前。
-- `assets/neko-lab.svg` 以 420px 宽显示，点击可进入个人主页；不恢复全宽项目宣传图。
-- 项目表格提供仓库、下载（Releases）、Wiki 和反馈（Issues）入口。
-- `assets/star-gtswn.svg`、`assets/star-gtit.svg`、`assets/star-gtsr.svg` 以 130px 宽显示。按钮进入对应仓库，访客仍需点击 GitHub 原生 Star。
-- 更新项目简介时，以各项目 README 为准；兼容版本与发行版本不在主页重复维护。
-- 项目入口使用完整 GitHub URL。不要在 README 中添加脚本、表单或要求登录信息的按钮。
-- `assets/` 中其余原有图片素材保留；无需为日常文案更新修改这些文件。
+## 当前素材与尺寸
 
-验收时检查 README 的 Markdown 格式、图片路径与显示宽度，确认个人主页、项目仓库及快捷入口准确、可访问。发布后检查 GitHub 个人主页及仓库 README 的实际显示；手机端确认图片缩放、Star 按钮换行及表格横向滚动。
+- `assets/profile/brand.svg`：新设计的猫猫工坊横幅，600 × 108，README 中显示宽度为 520px。
+- `assets/profile/homepage.svg`：个人主页胶囊按钮，280 × 42，显示宽度为 260px。
+- `assets/profile/star-*.svg`：青、紫、铜金三色 Star 按钮，136 × 30，显示宽度均为 120px。
+- `assets/gt-*.png`：三个模组原有标题图，保持原图与透明背景，显示宽度均为 180px。
+- `assets/` 下其余旧装饰素材保留，当前 README 不再引用。
+
+## 内容维护
+
+- 头图与个人主页按钮均链接到 https://miaokatze.com/，入口保持在模组展示之前。
+- 使用一个 HTML 表格，第一行只放三个项目标题图，第二行放对应的简介、下载、Wiki、反馈与 Star 入口。标题图保持同一排；移动端允许横向滚动。
+- 标题图、项目名称与 Star 按钮进入对应仓库。Star 按钮不能直接替访客标星，说明需点击 GitHub 原生 Star。
+- 项目简介以各项目 README 为准；兼容版本与发行版本不在主页重复维护。
+- SVG 使用自包含图形，不引入脚本、外部字体或远程图片。README 使用 GitHub 支持的 HTML 属性，不依赖自定义 CSS。
+
+## 验收
+
+检查 Markdown / HTML 结构、SVG 解析、图片路径与显示尺寸。核对个人主页、仓库、Releases、Wiki 和 Issues 的链接。使用 GitHub Markdown 渲染结果确认表格保留三列、三张标题图位于同一行，且按钮仍为可点击链接。发布后如可用，检查 GitHub 页面实际显示与移动端横向滚动。
