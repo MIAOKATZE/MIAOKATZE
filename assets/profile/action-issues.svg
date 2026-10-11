@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="26" viewBox="0 0 54 26" role="img" aria-labelledby="title">
+  <title id="title">问题反馈 · Issues</title>
+
+  <rect x=".5" y=".5" width="53" height="25" rx="6" fill="#f3f6fb" stroke="#c7d2e1"/>
+  <g fill="none" stroke="#5c718d" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 7H18V15H13L10 18V15H8Z"/><path d="M11 10H15M11 12H14"/></g>
+  <text x="24" y="17" font-family="'Segoe UI','Microsoft YaHei',Arial,sans-serif" font-size="11" font-weight="600" fill="#3c506d">反馈</text>
+</svg>

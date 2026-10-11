@@ -1,7 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="136" height="30" viewBox="0 0 136 30" role="img" aria-labelledby="title">
-  <title id="title">Star · GTSWN — 进入仓库支持项目</title>
-  <rect x=".5" y=".5" width="135" height="29" rx="15" fill="#172d38" stroke="#3f7b8c"/>
-  <path d="M19 7L21.4 12L27 12.8L23 16.8L24 22.3L19 19.7L14 22.3L15 16.8L11 12.8L16.6 12Z" fill="#9be4f0"/>
-  <text x="35" y="19" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5" font-weight="600" fill="#9be4f0">Star · GTSWN</text>
-  <path d="M118 12L121 15L118 18" fill="none" stroke="#9be4f0" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="28" viewBox="0 0 176 28" role="img" aria-labelledby="title">
+  <title id="title">Star · GT-Simple-Wireless-Network — 进入仓库支持项目</title>
+
+  <rect x=".5" y=".5" width="175" height="27" rx="8" fill="#edf8fb" stroke="#4d8294"/>
+  <path d="M23 6L25.3 10.7L30.5 11.5L26.7 15.2L27.6 20.4L23 18L18.4 20.4L19.3 15.2L15.5 11.5L20.7 10.7Z" fill="#265e70"/>
+  <text x="42" y="18.5" font-family="'Segoe UI','Microsoft YaHei',Arial,sans-serif" font-size="12" font-weight="600" fill="#265e70">Star · 支持项目</text>
+  <path d="M157 11L160 14L157 17" fill="none" stroke="#265e70" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

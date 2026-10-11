@@ -1,7 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="136" height="30" viewBox="0 0 136 30" role="img" aria-labelledby="title">
-  <title id="title">Star · GTSR — 进入仓库支持项目</title>
-  <rect x=".5" y=".5" width="135" height="29" rx="15" fill="#342b20" stroke="#92754d"/>
-  <path d="M19 7L21.4 12L27 12.8L23 16.8L24 22.3L19 19.7L14 22.3L15 16.8L11 12.8L16.6 12Z" fill="#efcd95"/>
-  <text x="35" y="19" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5" font-weight="600" fill="#efcd95">Star · GTSR</text>
-  <path d="M118 12L121 15L118 18" fill="none" stroke="#efcd95" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="28" viewBox="0 0 176 28" role="img" aria-labelledby="title">
+  <title id="title">Star · GT-Steam-Reborn — 进入仓库支持项目</title>
+
+  <rect x=".5" y=".5" width="175" height="27" rx="8" fill="#fcf5e9" stroke="#967d57"/>
+  <path d="M23 6L25.3 10.7L30.5 11.5L26.7 15.2L27.6 20.4L23 18L18.4 20.4L19.3 15.2L15.5 11.5L20.7 10.7Z" fill="#7c5929"/>
+  <text x="42" y="18.5" font-family="'Segoe UI','Microsoft YaHei',Arial,sans-serif" font-size="12" font-weight="600" fill="#7c5929">Star · 支持项目</text>
+  <path d="M157 11L160 14L157 17" fill="none" stroke="#7c5929" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
